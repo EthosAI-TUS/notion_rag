@@ -1,8 +1,3 @@
-このリポジトリは、Azure Cognitive Search + OpenAI を使ったシンプルな RAG（Retrieval-Augmented Generation）チャットボットのデモです。  
-Streamlit を用いて、検索結果に基づいた自然な回答生成を実現しています。
-
----
-
 ## 🚀 セットアップ手順
 
 ### 1. 仮想環境の作成・有効化

@@ -5,3 +5,4 @@ openai==0.28.1
 numpy==2.0.0
 streamlit==1.44.1
 dotenv==0.9.9
+notion-client==2.3.0

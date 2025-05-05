@@ -22,6 +22,8 @@ AZURE_SEARCH_ENDPOINT=https://<your-search-service>.search.windows.net
 AZURE_SEARCH_API_KEY=<your-azure-search-key>
 AZURE_OPENAI_ENDPOINT=https://<your-openai-endpoint>.openai.azure.com/
 AZURE_OPENAI_API_KEY=<your-openai-key>
+NOTION_API_KEY=<your-notion-api-key>
+NOTION_DATABASE_ID=<your-notion-database-ID>
 ```
 
 ※ `.env.sample` にサンプルを用意しています
